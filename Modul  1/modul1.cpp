@@ -40,7 +40,7 @@ int main () {
     cout << "[Bina]: Nih, Than. Rincian kembaliannya :" << endl;
 
     int kembalian = uang - totalBelanja_pajak;
-    cout << "kembalian  : " << kembalian << endl;
+    cout << "kembalian : " << kembalian << endl;
     cout << "---------------------------------" << endl;
 
     /*di pembagian pertama (kembalian / nominal) bakal nunjukkin berapa lembar kembalian.
